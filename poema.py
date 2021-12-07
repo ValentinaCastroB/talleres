@@ -1,0 +1,1 @@
+print("Tus ojos son luceros, tus labios, de terciopelo, y un amor como el que siento, es imposible esconderlo.")
